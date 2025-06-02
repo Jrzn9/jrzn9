@@ -40,5 +40,7 @@ e tudo que envolve proteger sistemas e dados. Ainda em formação, mas com foco 
 
 ### 📫 Contato
 
-📧 rzn097@gmail.com  
+- **Email**: [📧 rzn097@gmail.com](mailto:rzn097@gmail.com)
+- **Discord**: [🎮 rzncansado](https://discordapp.com/users/rzncansado)
+
 💬 Aberto a conexões, colaborações e trocas de conhecimento!
