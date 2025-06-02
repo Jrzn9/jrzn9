@@ -40,7 +40,13 @@ e tudo que envolve proteger sistemas e dados. Ainda em formação, mas com foco 
 
 ### 📫 Contato
 
-- **Email**: [📧 rzn097@gmail.com](mailto:rzn097@gmail.com)
-- **Discord**: [🎮 rzncansado](https://discordapp.com/users/rzncansado)
+<p>
+  <a href="mailto:rzn097@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/000000/email.png" width="40" alt="Email" />
+  </a>
+  <a href="https://discordapp.com/users/rzncansado">
+    <img src="https://img.icons8.com/ios-filled/50/000000/discord-logo.png" width="40" alt="Discord" />
+  </a>
+</p>
 
 💬 Aberto a conexões, colaborações e trocas de conhecimento!
