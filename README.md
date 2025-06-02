@@ -1,6 +1,4 @@
-# 👨‍💻 Jean Cristiano Palmeira
-
-> “Na interseção entre código e segurança, encontro minha missão.”
+# ☠️ Jean Cristiano Palmeira
 
 ---
 
@@ -48,6 +46,5 @@ e tudo que envolve proteger sistemas e dados. Ainda em formação, mas com foco 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Ov5Ni8GwlMZTe/giphy.gif" alt="Tokyo Ghoul" width="300" />
+  <img src="https://media.giphy.com/media/fFzWDzghU1kDK/giphy.gif" alt="Guts Berserk" width="300" />
 </p>
-
