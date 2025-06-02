@@ -1,4 +1,4 @@
-# ☠️ Jean Cristiano Palmeira
+# ![Jean Cristiano Palmeira](https://media.giphy.com/media/8xITzT8P0qkhFYxA9n/giphy.gif)
 
 ---
 
