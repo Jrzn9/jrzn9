@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">
+  🕶️ Jean Cristiano Palmeira 👾
+</h1>
 
-<!--
-**Jrzn9/jrzn9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <code>Estudante de Ciência da Computação</code> • <code>Explorador de Sistemas</code> • <code>Iniciante em CyberOps</code>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 | status -i
+
+```bash
+> whoami
+jean_cristiano
+
+> skills --list
+[ JavaScript, Python, Cybersecurity, Networking, Linux Basics ]
+
+> now_learning --progress
+{ "JavaScript": "60%", "Python": "40%", "Cybersecurity": "infinite loop" }
+
+
+
+
