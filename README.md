@@ -4,13 +4,9 @@
 
 ### Sobre mim
 
-Sou estudante de Ciência da Computação na **Unicarioca**, onde descobri minha paixão pela programação, que surgiu devido ao meu interesse em matemática e como ela é aplicada na construção de soluções tecnológicas. O raciocínio lógico e as estruturas matemáticas presentes na programação sempre me fascinaram e foram o que me motivaram a seguir esse caminho. Hoje, estou me aprofundando no universo da programação e da cibersegurança, buscando sempre entender como criar sistemas robustos e seguros.  
+Sou estudante de Ciência da Computação na **Unicarioca**, e me interessei pela programação desde que percebi como ela se conecta com a matemática, principalmente no uso de lógica e estruturas que sempre me chamaram atenção. A ideia de aplicar conceitos matemáticos para resolver problemas complexos e criar soluções tecnológicas foi o que me motivou a seguir essa área. Hoje, estou me aprofundando em programação e cibersegurança, sempre com o objetivo de desenvolver sistemas mais eficientes e seguros.  
 
-Atualmente, me concentro em  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" alt="JavaScript" /> <strong>JavaScript</strong>,  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" alt="Python" /> <strong>Python</strong>,  
-e tudo o que envolve proteger dados e sistemas. Estou em constante aprendizado, focado em aplicar o que sei e desenvolver soluções seguras e eficientes.
+Atualmente, me concentro em <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" alt="JavaScript" /> <strong>JavaScript</strong>, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" alt="Python" /> <strong>Python</strong>, e tudo que envolve proteger dados e sistemas. Estou em constante aprendizado, focado em aplicar o que sei e desenvolver soluções seguras e eficientes.
 
 ---
 
@@ -47,5 +43,3 @@ e tudo o que envolve proteger dados e sistemas. Estou em constante aprendizado, 
 [![Discord Badge](https://img.shields.io/badge/Discord-rzncansado-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/rzncansado)
 
 💬 Aberto a conexões, colaborações e trocas de conhecimento!
-
-
