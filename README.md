@@ -42,9 +42,3 @@ e tudo que envolve proteger sistemas e dados. Ainda em formação, mas com foco 
 
 📧 rzn097@gmail.com  
 💬 Aberto a conexões, colaborações e trocas de conhecimento!
-
----
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/7/7f/Guts_Berserk_Art.png" alt="Guts Berserk" width="300" />
-</p>
