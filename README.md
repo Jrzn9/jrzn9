@@ -6,7 +6,7 @@
 
 Sou estudante de Ciência da Computação na **Unicarioca**. Sempre tive interesse na área de tecnologia, principalmente por conta de games e sites de mangás que eu frequentava. A ideia de entender como tudo isso funciona por trás das telas, como sites e jogos são feitos, me motivou a seguir a carreira de programação. Hoje, estou focado em programação e cibersegurança, buscando sempre aprender mais e desenvolver soluções seguras e eficientes.  
 
-Atualmente, me concentro em <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" alt="JavaScript" /> <strong>JavaScript</strong>, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" alt="Python" /> <strong>Python</strong>, e tudo que envolve proteger dados e sistemas. Estou em constante aprendizado, focado em aplicar o que sei e desenvolver soluções seguras e eficientes.
+Atualmente, me concentro em <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" alt="JavaScript" /> <strong>JavaScript</strong>, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" alt="Python" /> <strong>Python</strong>, e tudo que envolve proteger dados e sistemas. Estou em constante aprendizado, focado em aplicar o que sei e desenvolver soluções seguras e eficientes.
 
 ---
 
