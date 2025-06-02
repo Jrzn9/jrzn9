@@ -40,13 +40,9 @@ e tudo que envolve proteger sistemas e dados. Ainda em formação, mas com foco 
 
 ### 📫 Contato
 
-<p>
-  <a href="mailto:rzn097@gmail.com" style="text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/mail.png" width="40" alt="Email" />
-  </a>
-  <a href="https://discordapp.com/users/rzncansado" style="text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/discord.png" width="40" alt="Discord" />
-  </a>
-</p>
+[![Email Badge](https://img.shields.io/badge/Email-rzn097@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rzn097@gmail.com)
+
+[![Discord Badge](https://img.shields.io/badge/Discord-rzncansado-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/rzncansado)
 
 💬 Aberto a conexões, colaborações e trocas de conhecimento!
+
