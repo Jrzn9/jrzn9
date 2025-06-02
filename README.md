@@ -42,10 +42,10 @@ e tudo que envolve proteger sistemas e dados. Ainda em formação, mas com foco 
 
 <p>
   <a href="mailto:rzn097@gmail.com" style="text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/email.png" width="40" alt="Email" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/mail.png" width="40" alt="Email" />
   </a>
   <a href="https://discordapp.com/users/rzncansado" style="text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/discord-logo.png" width="40" alt="Discord" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/discord.png" width="40" alt="Discord" />
   </a>
 </p>
 
