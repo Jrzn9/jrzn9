@@ -8,8 +8,8 @@
 
 Sou estudante de Ciência da Computação na **Unicarioca**, explorando o vasto universo da programação e cibersegurança. Apaixonado por  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" alt="JavaScript" /> JavaScript,  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" alt="Python" /> Python  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" alt="JavaScript" /> <strong>JavaScript</strong>,  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" alt="Python" /> <strong>Python</strong>  
 e tudo que envolve proteger sistemas e dados. Ainda em formação, mas com foco em aprender rápido, aplicar o que sei e construir soluções sólidas.
 
 ---
@@ -47,3 +47,8 @@ e tudo que envolve proteger sistemas e dados. Ainda em formação, mas com foco 
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/7zDlRGtRjvKXJ2csHZ/giphy.gif" alt="Tokyo Ghoul" width="300" />
+</p>
+
+> “O futuro pertence aos que dominam a arte de proteger o invisível.”
