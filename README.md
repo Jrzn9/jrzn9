@@ -46,5 +46,5 @@ e tudo que envolve proteger sistemas e dados. Ainda em formação, mas com foco 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fFzWDzghU1kDK/giphy.gif" alt="Guts Berserk" width="300" />
+  <img src="https://media.giphy.com/media/1q7WYVgFth8xDqYFfN/giphy.gif" alt="Guts Berserk" width="300" />
 </p>
