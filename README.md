@@ -23,7 +23,8 @@ Atualmente, me concentro em <img src="https://cdn.jsdelivr.net/gh/devicons/devic
 ### 🏆 Certificação
 
 🛡️ Conquistei o badge de **Introduction to Cybersecurity** da Cisco  
-👉 [Ver certificado](https://www.credly.com/badges/42b26209-84ea-4ec7-9b15-28f9fbc92335)
+[![Credly Badge](https://images.credly.com/size/340x340/images/a84dcdd7-2ce0-4483-b884-f9f2ec770f9d/image.png)](https://www.credly.com/badges/a84dcdd7-2ce0-4483-b884-f9f2ec770f9d/public_url)  
+👉 [Ver certificado](https://www.credly.com/badges/a84dcdd7-2ce0-4483-b884-f9f2ec770f9d/public_url)
 
 ---
 
