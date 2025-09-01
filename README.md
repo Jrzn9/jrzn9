@@ -1,30 +1,41 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/Q8f747XjY8G3A78p1j/giphy.gif" alt="Olá, Mundo" width="500" />
+</div>
+
 # ☠️ Jean Cristiano Palmeira
 
----
-### "A curiosidade é o primeiro passo para a maestria."
-<p align="center">
-  <img src="https://images.credly.com/size/340x340/images/af8c6b4d-15b3-4e53-b772-8a2a6d63d5c9/image.png" width="130" alt="Introduction to Cybersecurity - Cisco" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://images.credly.com/size/340x340/images/5e2ab8e2-df97-4c1c-b1d1-1e1b88f6e3c9/image.png" width="130" alt="Python Essentials 1 - Cisco" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://images.credly.com/size/340x340/images/d8c1c045-31a8-4229-9189-9b9c9e89d532/js1.png" width="130" alt="JavaScript Essentials 1 - Cisco" />
-</p>
+### <div align="center"> Estudante de Ciência da Computação | Dev | Focado em Cibersegurança </div>
 
 ---
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-    <img alt="github-snake" src="dist/github-snake.svg" />
-  </picture>
-</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Web+Full+Stack;Analista+de+Ciberseguran%C3%A7a;Apaixonado+por+tecnologia&font=Fira%20Code&center=true&width=500&height=50&color=000000" />
+</div>
 
 ---
+
 ### Sobre mim
 
-Sou estudante de Ciência da Computação na **Unicarioca**, com um interesse profundo em tecnologia, que nasceu da minha paixão por games e mangás. A curiosidade em desvendar os bastidores do mundo digital me levou a seguir a carreira de programação. Hoje, meus estudos se concentram em **JavaScript**, **Python** e **cibersegurança**, com o objetivo de criar soluções eficientes e seguras.
+Sou estudante de Ciência da Computação na **Unicarioca**. Sempre tive interesse na área de tecnologia, principalmente por conta de games e sites de mangás que eu frequentava.  
+A curiosidade em entender como tudo funciona por trás das telas — de sites a jogos — me motivou a seguir a carreira de programação.  
+Hoje, foco meus estudos em **JavaScript**, **Python** e **cibersegurança**, buscando sempre aprender e criar soluções eficientes e seguras.
 
 ---
-### 🛠️ Tecnologias e Interesses
+
+### 🏆 Conquistas e Estatísticas
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=SEU-NOME-DE-USUARIO&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SEU-NOME-DE-USUARIO&theme=onedark" alt="Troféus do GitHub" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tecnologias e interesses
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
@@ -33,13 +44,7 @@ Sou estudante de Ciência da Computação na **Unicarioca**, com um interesse pr
 </p>
 
 ---
-### 🏆 Certificações
 
-- 🛡 **Introduction to Cybersecurity** – Cisco Networking Academy  
-- 🐍 **Python Essentials 1** – Cisco Networking Academy
-- 💻 **JavaScript Essentials 1** – Cisco Networking Academy
-
----
 ### 📚 O que estou estudando
 
 - Lógica e estruturas de dados  
@@ -47,6 +52,7 @@ Sou estudante de Ciência da Computação na **Unicarioca**, com um interesse pr
 - Desenvolvimento com **JavaScript** e **Python** - Boas práticas de segurança no código
 
 ---
+
 ### 📫 Contato
 
 <p align="center">
@@ -61,6 +67,6 @@ Sou estudante de Ciência da Computação na **Unicarioca**, com um interesse pr
 
 ---
 
-<p align="center">
-    💬 Aberto a conexões, colaborações e trocas de conhecimento!
-</p>
+<div align="center">
+  💬 Aberto a conexões, colaborações e trocas de conhecimento!
+</div>
