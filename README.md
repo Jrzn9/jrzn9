@@ -1,32 +1,30 @@
 # ☠️ Jean Cristiano Palmeira
 
 ---
-
+### "A curiosidade é o primeiro passo para a maestria."
 <p align="center">
-  <a href="https://www.credly.com/badges/42b26209-84ea-4ec7-9b15-28f9fbc92335/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/af8c6b4d-15b3-4e53-b772-8a2a6d63d5c9/image.png" width="130" alt="Introduction to Cybersecurity - Cisco" />
-  </a>
+  <img src="https://images.credly.com/size/340x340/images/af8c6b4d-15b3-4e53-b772-8a2a6d63d5c9/image.png" width="130" alt="Introduction to Cybersecurity - Cisco" />
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/a84dcdd7-2ce0-4483-b884-f9f2ec770f9d/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/5e2ab8e2-df97-4c1c-b1d1-1e1b88f6e3c9/image.png" width="130" alt="Python Essentials 1 - Cisco" />
-  </a>
+  <img src="https://images.credly.com/size/340x340/images/5e2ab8e2-df97-4c1c-b1d1-1e1b88f6e3c9/image.png" width="130" alt="Python Essentials 1 - Cisco" />
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/b2d037c0-1229-4446-b0d4-d28c7f6c05c3/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/d8c1c045-31a8-4229-9189-9b9c9e89d532/js1.png" width="130" alt="JavaScript Essentials 1 - Cisco" />
-  </a>
+  <img src="https://images.credly.com/size/340x340/images/d8c1c045-31a8-4229-9189-9b9c9e89d532/js1.png" width="130" alt="JavaScript Essentials 1 - Cisco" />
 </p>
 
 ---
-
-### Sobre mim
-
-Sou estudante de Ciência da Computação na **Unicarioca**. Sempre tive interesse na área de tecnologia, principalmente por conta de games e sites de mangás que eu frequentava.  
-A curiosidade em entender como tudo funciona por trás das telas — de sites a jogos — me motivou a seguir a carreira de programação.  
-Hoje, foco meus estudos em **JavaScript**, **Python** e **cibersegurança**, buscando sempre aprender e criar soluções eficientes e seguras.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+    <img alt="github-snake" src="dist/github-snake.svg" />
+  </picture>
+</p>
 
 ---
+### Sobre mim
 
-### 🛠️ Tecnologias e interesses
+Sou estudante de Ciência da Computação na **Unicarioca**, com um interesse profundo em tecnologia, que nasceu da minha paixão por games e mangás. A curiosidade em desvendar os bastidores do mundo digital me levou a seguir a carreira de programação. Hoje, meus estudos se concentram em **JavaScript**, **Python** e **cibersegurança**, com o objetivo de criar soluções eficientes e seguras.
+
+---
+### 🛠️ Tecnologias e Interesses
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
@@ -35,7 +33,6 @@ Hoje, foco meus estudos em **JavaScript**, **Python** e **cibersegurança**, bus
 </p>
 
 ---
-
 ### 🏆 Certificações
 
 - 🛡 **Introduction to Cybersecurity** – Cisco Networking Academy  
@@ -43,7 +40,6 @@ Hoje, foco meus estudos em **JavaScript**, **Python** e **cibersegurança**, bus
 - 💻 **JavaScript Essentials 1** – Cisco Networking Academy
 
 ---
-
 ### 📚 O que estou estudando
 
 - Lógica e estruturas de dados  
@@ -51,7 +47,6 @@ Hoje, foco meus estudos em **JavaScript**, **Python** e **cibersegurança**, bus
 - Desenvolvimento com **JavaScript** e **Python** - Boas práticas de segurança no código
 
 ---
-
 ### 📫 Contato
 
 <p align="center">
@@ -64,5 +59,8 @@ Hoje, foco meus estudos em **JavaScript**, **Python** e **cibersegurança**, bus
   </a>
 </p>
 
-💬 Aberto a conexões, colaborações e trocas de conhecimento!
+---
 
+<p align="center">
+    💬 Aberto a conexões, colaborações e trocas de conhecimento!
+</p>
