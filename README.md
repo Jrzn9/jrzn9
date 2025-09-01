@@ -29,7 +29,7 @@ Sou estudante de Ciência da Computação na **Unicarioca**, com um interesse pr
 - 🛡 **Introduction to Cybersecurity** – Cisco Networking Academy
 - 🐍 **Python Essentials 1** – Cisco Networking Academy
 - 💻 **JavaScript Essentials 1** – Cisco Networking Academy
-- [cite_start]🤖 **IA Generativa: Fundamentos e Aplicações** – Centro Universitário Unicarioca [cite: 5]
+- 🤖 **IA Generativa: Fundamentos e Aplicações** – Centro Universitário Unicarioca
 
 ---
 
