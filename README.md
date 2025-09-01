@@ -24,16 +24,12 @@ Sou estudante de Ciência da Computação na **Unicarioca**, com um interesse pr
 
 ---
 
-### 🏆 Conquistas e Estatísticas
+### 🏆 Certificações
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=SEU-NOME-DE-USUARIO&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SEU-NOME-DE-USUARIO&theme=onedark" alt="Troféus do GitHub" />
-  </a>
-</p>
+- 🛡 **Introduction to Cybersecurity** – Cisco Networking Academy
+- 🐍 **Python Essentials 1** – Cisco Networking Academy
+- 💻 **JavaScript Essentials 1** – Cisco Networking Academy
+- [cite_start]🤖 **IA Generativa: Fundamentos e Aplicações** – Centro Universitário Unicarioca [cite: 5]
 
 ---
 
