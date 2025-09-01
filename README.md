@@ -1,10 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/Q8f747XjY8G3A78p1j/giphy.gif" alt="Olá, Mundo" width="500" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Web+Full+Stack;Analista+de+Ciberseguran%C3%A7a;Apaixonado+por+tecnologia&font=Fira%20Code&center=true&width=500&height=50&color=000000" />
-</div>
+# ☠️ Jean Cristiano Palmeira
 
 ---
 
@@ -29,6 +23,21 @@
 Sou estudante de Ciência da Computação na **Unicarioca**, com um interesse profundo em tecnologia, que nasceu da minha paixão por games e mangás. A curiosidade em desvendar os bastidores do mundo digital me levou a seguir a carreira de programação. Hoje, meus estudos se concentram em **JavaScript**, **Python** e **cibersegurança**, com o objetivo de criar soluções eficientes e seguras.
 
 ---
+
+### 🏆 Conquistas e Estatísticas
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=SEU-NOME-DE-USUARIO&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SEU-NOME-DE-USUARIO&theme=onedark" alt="Troféus do GitHub" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tecnologias e Interesses
 
 <table align="center">
   <tr>
@@ -70,6 +79,7 @@ Sou estudante de Ciência da Computação na **Unicarioca**, com um interesse pr
 </p>
 
 ---
+
 <div align="center">
   💬 Aberto a conexões, colaborações e trocas de conhecimento!
 </div>
