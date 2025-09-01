@@ -56,8 +56,8 @@ Sou estudante de Ciência da Computação na **Unicarioca**, com um interesse pr
 
 ### 📚 O que estou estudando
 
-- Lógica e estruturas de dados  
-- Redes e protocolos de segurança  
+- Lógica e estruturas de dados
+- Redes e protocolos de segurança
 - Desenvolvimento com **JavaScript** e **Python** - Boas práticas de segurança no código
 
 ---
