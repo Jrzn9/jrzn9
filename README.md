@@ -69,8 +69,8 @@ Sou estudante de Ciência da Computação na **Unicarioca**, com um interesse pr
     <img src="https://img.shields.io/badge/Email-rzn097@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://discordapp.com/users/rzncansado">
-    <img src="https://img.shields.io/badge/Discord-rzncansado-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discordapp.com/users/rzn404">
+    <img src="https://img.shields.io/badge/Discord-rzn404-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
