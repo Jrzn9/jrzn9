@@ -1,5 +1,8 @@
 ### Jean Cristiano Palmeira
+
+
 **Desenvolvedor Full Stack**
+
 
 ### Sobre Mim
 Estudante de **Ciência da Computação** na Unicarioca. Atualmente focado no desenvolvimento de aplicações escaláveis, com domínio em tecnologias de Front-end e Back-end.
