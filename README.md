@@ -1,12 +1,12 @@
 # Jean Cristiano Palmeira
 ### Desenvolvedor Full Stack
 
----
 
-### 👤 Sobre Mim
+
+### Sobre Mim
 Sou estudante de **Ciência da Computação** na Unicarioca. Atualmente, foco meu desenvolvimento na criação de aplicações modernas e escaláveis, dominando as tecnologias de Front-end e Back-end.
 
----
+
 
 
 <table align="center">
@@ -36,7 +36,7 @@ Sou estudante de **Ciência da Computação** na Unicarioca. Atualmente, foco me
 
 <br clear="all">
 
----
+
 
 ###
 Minhas atividades no GitHub:
@@ -45,9 +45,9 @@ Minhas atividades no GitHub:
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </p>
 
----
 
-### 📫 Contato
+
+### Contato
 
 <p align="left">
   <a href="mailto:rzn097@gmail.com">
