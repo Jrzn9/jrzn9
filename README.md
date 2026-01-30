@@ -1,14 +1,10 @@
 # Jean Cristiano Palmeira
+**Desenvolvedor Full Stack**
 
-### Desenvolvedor Full Stack
+### Perfil Profissional
+Estudante de **Ciência da Computação** na Unicarioca. Atualmente focado no desenvolvimento de aplicações escaláveis, com domínio em tecnologias de Front-end e Back-end.
 
-
-
-### Sobre Mim
-Sou estudante de **Ciência da Computação** na Unicarioca. Atualmente, foco meu desenvolvimento na criação de aplicações modernas e escaláveis, dominando as tecnologias de Front-end e Back-end.
-
-
-
+<br>
 
 <table align="center">
   <tr>
@@ -37,28 +33,25 @@ Sou estudante de **Ciência da Computação** na Unicarioca. Atualmente, foco me
 
 <br clear="all">
 
-
-
-###
-Minhas atividades no GitHub:
-
+### Atividade no GitHub
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </p>
 
-
+<br>
 
 ### Contato
-
 <p align="left">
   <a href="mailto:rzn097@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rzn097@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-rzn097@gmail.com-blue?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://discordapp.com/users/rzn320">
-    <img src="https://img.shields.io/badge/Discord-rzn320-7289da?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-rzn320-7289da?style=flat&logo=discord&logoColor=white" />
   </a>
 </p>
 
+---
+
 <div align="center">
-  <sub>Aberto a conexões e colaborações em projetos.</sub>
+  <sub>Aberto a conexões e colaborações em projetos de software.</sub>
 </div>
