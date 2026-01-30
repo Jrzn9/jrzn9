@@ -38,8 +38,8 @@ Sou estudante de **Ciência da Computação** na Unicarioca. Atualmente, foco me
 
 ---
 
-### 🎮 Snake Game
-Visualização das minhas atividades no GitHub:
+###
+Minhas atividades no GitHub:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" />
