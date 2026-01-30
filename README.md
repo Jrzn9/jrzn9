@@ -8,7 +8,6 @@ Sou estudante de **Ciência da Computação** na Unicarioca. Atualmente, foco me
 
 ---
 
-### Tecnologias e Ferramentas
 
 <table align="center">
   <tr>
