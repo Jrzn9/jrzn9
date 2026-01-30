@@ -1,5 +1,5 @@
-# ⚡ Jean Cristiano Palmeira
-### 🚀 Desenvolvedor Full Stack
+# Jean Cristiano Palmeira
+### Desenvolvedor Full Stack
 
 ---
 
