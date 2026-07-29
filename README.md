@@ -112,16 +112,6 @@ Tecnologias utilizadas:
 
 ---
 
-## GitHub
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jrzn9&show_icons=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrzn9&layout=compact&theme=transparent"/>
-</p>
-
----
-
 ## Atividade
 
 <p align="center">
