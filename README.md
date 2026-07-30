@@ -8,11 +8,8 @@
 
 ## Sobre Mim
 
-Sou estudante de Ciência da Computação (4º período) na UniCarioca, com foco em Desenvolvimento Front-End.
-
+Sou estudante de Ciência da Computação na UniCarioca, com foco em Desenvolvimento Front-End.
 Tenho experiência no desenvolvimento de interfaces responsivas, integração com APIs REST e construção de aplicações utilizando React e TypeScript. Atualmente estou aprofundando meus conhecimentos por meio de uma formação em Front-End e do desenvolvimento de um projeto Full-Stack utilizando React, Node.js e PostgreSQL.
-
-Estou em busca da minha primeira oportunidade como estagiário para aplicar meus conhecimentos, evoluir tecnicamente e contribuir com projetos reais.
 
 ---
 
