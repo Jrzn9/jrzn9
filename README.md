@@ -56,8 +56,8 @@ https://github.com/Jrzn9/jean-portfolio
 ## Estatísticas
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jrzn9&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrzn9&layout=compact&theme=dark&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-kmlv90ztc-rzn4.vercel.app/api?username=Jrzn9&show_icons=true&theme=dark&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-kmlv90ztc-rzn4.vercel.app/api/top-langs/?username=Jrzn9&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
 ---
