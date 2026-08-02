@@ -14,6 +14,8 @@ Tenho experiência no desenvolvimento de interfaces responsivas, integração co
 
 ## Tecnologias
 
+**Front-End**
+
 <table align="center">
 <tr>
 <td align="center" width="110">
@@ -36,23 +38,31 @@ TypeScript
 <img src="https://skillicons.dev/icons?i=react" width="45"/><br>
 React
 </td>
-</tr>
-<tr>
-<td align="center">
+<td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>
 Tailwind CSS
 </td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postgres" width="45"/><br>
-PostgreSQL
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>
-MongoDB
-</td>
-<td align="center">
+</tr>
+</table>
+
+**Back-End**
+
+<table align="center">
+<tr>
+<td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=python" width="45"/><br>
 Python
+</td>
+</tr>
+</table>
+
+**Banco de Dados**
+
+<table align="center">
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=postgres" width="45"/><br>
+PostgreSQL
 </td>
 </tr>
 </table>
@@ -70,19 +80,6 @@ Site pessoal desenvolvido com Vite, React, TypeScript e Tailwind CSS.
 
 Repositório:
 https://github.com/Jrzn9/jean-portfolio
-
----
-
-### TaskVibes
-Sistema de gerenciamento de tarefas desenvolvido como projeto acadêmico.
-- Desenvolvimento do Front-End
-- Integração com API REST
-- HTML5
-- CSS3
-- JavaScript
-
-Repositório:
-https://github.com/Jrzn9/aps-front-end
 
 ---
 
