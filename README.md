@@ -53,14 +53,6 @@ https://github.com/Jrzn9/jean-portfolio
 
 ---
 
-## Atividade
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 ## Contato
 
 - Email: **rzn097@gmail.com**
