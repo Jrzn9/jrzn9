@@ -16,63 +16,33 @@ Tenho experiência no desenvolvimento de interfaces responsivas, integração co
 
 **Front-End**
 
-<table align="center">
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=html" width="45"/><br>
-HTML5
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=css" width="45"/><br>
-CSS3
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=js" width="45"/><br>
-JavaScript
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=ts" width="45"/><br>
-TypeScript
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=react" width="45"/><br>
-React
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>
-Tailwind CSS
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
 **Back-End**
 
-<table align="center">
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=python" width="45"/><br>
-Python
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 **Banco de Dados**
 
-<table align="center">
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=postgres" width="45"/><br>
-PostgreSQL
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ---
 
 ## Projetos
 
 ### Portfólio Pessoal
-Site pessoal desenvolvido com Vite, React, TypeScript e Tailwind CSS.
+Site pessoal em tema dark mode, desenvolvido para apresentar minha trajetória, projetos e habilidades como desenvolvedor front-end.
 - React
 - TypeScript
 - Tailwind CSS
