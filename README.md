@@ -6,16 +6,14 @@
 ---
 
 ## Sobre Mim
-
 Sou estudante de Ciência da Computação na UniCarioca, com foco em Desenvolvimento Front-End.
-Tenho experiência no desenvolvimento de interfaces responsivas, integração com APIs REST e construção de aplicações utilizando React e TypeScript. Atualmente estou aprofundando meus conhecimentos por meio de uma formação em Front-End.
+Tenho experiência no desenvolvimento de interfaces responsivas, integração com APIs REST e construção de aplicações utilizando React e TypeScript. Atualmente estou aprofundando meus conhecimentos por meio de uma formação em Front-End, além de desenvolver um projeto de back-end completo em Python.
 
 ---
 
 ## Tecnologias
 
 **Front-End**
-
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -26,13 +24,12 @@ Tenho experiência no desenvolvimento de interfaces responsivas, integração co
 </p>
 
 **Back-End**
-
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 **Banco de Dados**
-
 <p align="center">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
@@ -41,26 +38,11 @@ Tenho experiência no desenvolvimento de interfaces responsivas, integração co
 
 ## Projetos
 
-### Portfólio Pessoal
-Site pessoal em tema dark mode, desenvolvido para apresentar minha trajetória, projetos e habilidades como desenvolvedor front-end.
-- React
-- TypeScript
-- Tailwind CSS
-- Vite
+### API de Fichas de Treino
+API REST para gerenciamento de fichas de treino, com autenticação JWT, controle de acesso por papel e catálogo de exercícios curado com base científica. Projeto em desenvolvimento, com planos de virar TCC.
+- FastAPI
+- PostgreSQL
+- SQLAlchemy
+- JWT / bcrypt
 
 Repositório:
-https://github.com/Jrzn9/jean-portfolio
-
----
-
-## Contato
-
-- Email: **rzn097@gmail.com**
-- LinkedIn: **linkedin.com/in/jeancristiano**
-- GitHub: **github.com/Jrzn9**
-
----
-
-<p align="center">
-Aberto a oportunidades de estágio em Desenvolvimento Front-End e a colaborações em projetos de software.
-</p>
