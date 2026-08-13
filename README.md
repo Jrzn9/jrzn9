@@ -46,3 +46,27 @@ API REST para gerenciamento de fichas de treino, com autenticação JWT, control
 - JWT / bcrypt
 
 Repositório:
+https://github.com/Jrzn9/fichas-de-treino
+
+### Portfólio Pessoal
+Site pessoal em tema dark mode, desenvolvido para apresentar minha trajetória, projetos e habilidades como desenvolvedor front-end.
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
+
+Repositório:
+https://github.com/Jrzn9/jean-portfolio
+
+---
+
+## Contato
+- Email: **rzn097@gmail.com**
+- LinkedIn: **linkedin.com/in/jeancristiano**
+- GitHub: **github.com/Jrzn9**
+
+---
+
+<p align="center">
+Aberto a oportunidades de estágio em Desenvolvimento Front-End e a colaborações em projetos de software.
+</p>
