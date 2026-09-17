@@ -1,12 +1,12 @@
 <h1 align="center">Jean Cristiano Palmeira</h1>
 <p align="center">
-  <strong>Estagiário Front-End | Desenvolvedor Full-Stack em Formação</strong>
+  <strong>Estagiário Full-Stack | Desenvolvedor Full-Stack em Formação</strong>
 </p>
 
 ---
 
 ## Sobre Mim
-Sou estudante de Ciência da Computação na UniCarioca, com foco em Desenvolvimento Front-End.
+Sou estudante de Ciência da Computação na UniCarioca, com foco em Desenvolvimento Full-Stack
 Tenho experiência no desenvolvimento de interfaces responsivas, integração com APIs REST e construção de aplicações utilizando React e TypeScript. Atualmente estou aprofundando meus conhecimentos por meio de uma formação em Front-End, além de desenvolver um projeto de back-end completo em Python.
 
 ---
@@ -68,5 +68,5 @@ https://github.com/Jrzn9/jean-portfolio
 ---
 
 <p align="center">
-Aberto a oportunidades de estágio em Desenvolvimento Front-End e a colaborações em projetos de software.
+Aberto a oportunidades de estágio em Desenvolvimento Full-Stack e a colaborações em projetos de software.
 </p>
