@@ -49,7 +49,7 @@ Repositório:
 https://github.com/Jrzn9/fichas-de-treino
 
 ### Portfólio Pessoal
-Site pessoal em tema dark mode, desenvolvido para apresentar minha trajetória, projetos e habilidades como desenvolvedor front-end.
+Site pessoal em tema claro, desenvolvido do zero para apresentar minha trajetória, formação, habilidades e projetos como desenvolvedor front-end. Interface totalmente responsiva, com componentização reutilizável e navegação por âncoras entre as seções (Sobre, Formação, Habilidades, Projetos e Contato).
 - React
 - TypeScript
 - Tailwind CSS
