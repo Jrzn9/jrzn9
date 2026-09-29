@@ -55,44 +55,6 @@ Tenho experiência no desenvolvimento de interfaces responsivas, integração co
 
 <br>
 
-## Projetos
-
-### API de Fichas de Treino
-
-API REST completa para gerenciamento de treinos: cadastro e login com JWT, catálogo de mais de 200 exercícios, montador e otimizador automáticos de fichas baseados em evidência científica (ACSM e outras referências), registro de séries com progressão de carga, recursos sociais (amigos, feed, desafios) e eventos em tempo real via WebSocket.
-
-Projeto em desenvolvimento ativo, com planos de virar TCC.
-
-Segurança e qualidade, frente que venho aprofundando nesse projeto:
-
-- Autenticação JWT com bcrypt, revogação de sessão na troca de senha e sessão de administrador com expiração curta
-- Auditoria de todas as ações administrativas (quem fez, o quê e quando)
-- Limite de tentativas de login contra força bruta, com suporte a Redis em múltiplas instâncias
-- Cabeçalhos de segurança HTTP, limite de tamanho de requisição e documentação oculta em produção
-- Mais de 190 testes automatizados (Pytest) rodando em CI a cada push
-
-Stack: FastAPI · PostgreSQL · SQLAlchemy · Alembic · JWT / bcrypt · Redis · WebSocket · Pytest · GitHub Actions
-
-Repositório: Privado
-
-### Gerenciador de Projetos API
-
-API REST para gerenciamento de projetos e tarefas, no estilo de um quadro Kanban simplificado: autenticação com JWT, criação de projetos com controle de papéis (OWNER e MEMBER), adição de membros por e-mail e organização de tarefas por status, com testes automatizados cobrindo as rotas principais.
-
-Stack: Node.js · Express · Prisma · PostgreSQL · JWT / bcrypt · Zod · Jest / Supertest
-
-Repositório: https://github.com/Jrzn9/gerenciador-projetos-api
-
-### Portfólio Pessoal
-
-Site pessoal em tema claro, desenvolvido do zero para apresentar minha trajetória, formação, habilidades e projetos como desenvolvedor front-end. Interface totalmente responsiva, com componentização reutilizável e navegação por âncoras entre as seções (Sobre, Formação, Habilidades, Projetos e Contato).
-
-Stack: React · TypeScript · Tailwind CSS · Vite
-
-Repositório: https://github.com/Jrzn9/jean-portfolio
-
-<br>
-
 ## Contato
 
 - Email: rzn097@gmail.com
