@@ -7,7 +7,7 @@
 
 Sou estudante de Ciência da Computação na UniCarioca, com foco em Desenvolvimento Full-Stack.
 
-Tenho experiência no desenvolvimento de interfaces responsivas, integração com APIs REST e construção de aplicações utilizando React e TypeScript. Atualmente estou aprofundando meus conhecimentos em Front-End, além de desenvolver um projeto de back-end completo em Python.
+Tenho experiência no desenvolvimento de interfaces responsivas, integração com APIs REST e construção de aplicações utilizando React e TypeScript. Atualmente estou aprofundando meus conhecimentos em Front-End, além de desenvolver um projeto de back-end completo em Node.js.
 
 <br>
 
