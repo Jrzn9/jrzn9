@@ -1,5 +1,5 @@
 <h1 align="center">Jean Cristiano Palmeira</h1>
-<p align="center"><strong>Estagiário Full-Stack | Desenvolvedor Full-Stack em Formação</strong></p>
+<p align="center"><strong>Desenvolvedor Back-End | Full-Stack em Formação</strong><br>Node.js · Python · FastAPI · PostgreSQL · Angular · React</p>
 
 <br>
 
@@ -14,7 +14,7 @@ Tenho experiência no desenvolvimento de interfaces responsivas, integração co
 ## Projetos
 
 - **Gerenciador de Projetos**: sistema full-stack com quadro Kanban, convites, equipes e notificações. [Front-end](https://github.com/Jrzn9/gerenciador-projetos-web) em Angular e [API](https://github.com/Jrzn9/gerenciador-projetos-api) em Node.js, Express, Prisma e PostgreSQL.
-- **[Portfólio](https://github.com/Jrzn9/jean-portfolio)**: site pessoal responsivo, com tema claro e escuro, feito com React, TypeScript e Tailwind CSS.
+- **[Portfólio](https://jrzn9.github.io/jean-portfolio/)**: site pessoal responsivo, com tema claro e escuro, feito com React, TypeScript e Tailwind CSS ([ver código](https://github.com/Jrzn9/jean-portfolio)).
 
 <br>
 
@@ -67,6 +67,7 @@ Tenho experiência no desenvolvimento de interfaces responsivas, integração co
 ## Contato
 
 - Email: rzn097@gmail.com
+- Portfólio: [jrzn9.github.io/jean-portfolio](https://jrzn9.github.io/jean-portfolio/)
 - LinkedIn: [linkedin.com/in/jeancristiano](https://www.linkedin.com/in/jeancristiano)
 - GitHub: [github.com/Jrzn9](https://github.com/Jrzn9)
 
