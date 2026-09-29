@@ -73,7 +73,7 @@ Segurança e qualidade, frente que venho aprofundando nesse projeto:
 
 Stack: FastAPI · PostgreSQL · SQLAlchemy · Alembic · JWT / bcrypt · Redis · WebSocket · Pytest · GitHub Actions
 
-Repositório: https://github.com/Jrzn9/fichas-de-treino
+Repositório: Privado
 
 ### Gerenciador de Projetos API
 
